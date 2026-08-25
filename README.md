@@ -45,7 +45,7 @@ My weapon of choice for web scraping, data stuff, and anything that needs a litt
 ## 📫 Reach Me
 
 - **Discord:** `PurpleXPurpleFR` — I'm usually around.
-- **Portfolio:** [link to your portfolio] *(will be refreshed next year)*
+- **Portfolio:** [https://perchance.org/portfolioforpurpleig] *(will be refreshed next year)*
 
 ---
 
@@ -55,7 +55,7 @@ My weapon of choice for web scraping, data stuff, and anything that needs a litt
 - I don't build full projects alone — I thrive in collaboration and remixing ideas.
 - I hate ChatGPT with a passion. Enough said.
 - Tech is my thing, but I'm also into *Murder Drones* and keeping it real.
-- I've created **20+ repositories** in the last year — mostly Python, a bit of PowerShell, and some C++.[reference:6]
+- I've created **20+ repositories** in the last year — mostly Python, a bit of PowerShell, and some C++.
 
 ---
 
