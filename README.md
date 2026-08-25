@@ -23,12 +23,12 @@ Here are my pinned projects — the ones I'm actually proud of:
 
 | Repository | Description |
 |------------|-------------|
-| [**Scraper**](https://github.com/Purrple-hub/Scraper) | High-performance Python scraper with curl_cffi TLS impersonation, lxml parsing, adaptive concurrency, ML blocking detection, distributed queue, multi‑storage, and full observability.[reference:0] |
-| [**ClipSaver-Python**](https://github.com/Purrple-hub/ClipSaver-Python) | [clipssaver.com](https://clipssaver.com/) but as open-source Python — private, lightweight, and made with love.[reference:1] |
-| [**Research-Papers**](https://github.com/Purrple-hub/Research-Papers) | Collection of research papers and related work.[reference:2] |
-| [**Tokenizer**](https://github.com/Purrple-hub/Tokenizer) | Full-on tokenizer for PyArrow files. Detokenization isn't built in yet — sorry![reference:3] |
-| [**YT-FR**](https://github.com/Purrple-hub/YT-FR) | YouTube-related Python project.[reference:4] |
-| [**SiteJS**](https://github.com/Purrple-hub/SiteJS) | Python-based "Small Web" construction set inspired by the now-deprecated Site.js (Node.js).[reference:5] |
+| [**Scraper**](https://github.com/Purrple-hub/Scraper) | High-performance Python scraper with curl_cffi TLS impersonation, lxml parsing, adaptive concurrency, ML blocking detection, distributed queue, multi‑storage, and full observability. |
+| [**ClipSaver-Python**](https://github.com/Purrple-hub/ClipSaver-Python) | [clipssaver.com](https://clipssaver.com/) but as open-source Python — private, lightweight, and made with love. |
+| [**Research-Papers**](https://github.com/Purrple-hub/Research-Papers) | Collection of research papers and related work.|
+| [**Tokenizer**](https://github.com/Purrple-hub/Tokenizer) | Full-on tokenizer for PyArrow files. Detokenization isn't built in yet — sorry!|
+| [**YT-FR**](https://github.com/Purrple-hub/YT-FR) | YouTube-related Python project. |
+| [**SiteJS**](https://github.com/Purrple-hub/SiteJS) | Python-based "Small Web" construction set inspired by the now-deprecated Site.js (Node.js). |
 
 ---
 
