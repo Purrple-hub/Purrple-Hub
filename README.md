@@ -38,7 +38,7 @@ Here are my pinned projects — the ones I'm actually proud of:
 My go-to for scripting, game mods, and lightweight automation. I spend most of my time here.
 
 ### 🐍 Python
-My weapon of choice for web scraping, data stuff, and anything that needs a little more flexibility. *(Check my repos — it's like 90% Python at this point.)*
+My weapon of choice for web scraping, data stuff, and anything that needs a little more flexibility. *(Check my repos — i also code a bit using Opencode and use Python files to actually describe my ideas/formats/backends/etc. i learned Curl-cffi only and thats my main to-go-for so the other projects are AI made but also edited by me for performance or reprompted so it could actually work properly or to what **i** need. open issues if you want anything bro)*
 
 ---
 
