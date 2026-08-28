@@ -6,7 +6,13 @@ Welcome to my GitHub! I'm a developer who loves tinkering with code, breaking th
 
 ---
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Purrple-hub&theme=radical&bg_color=00000000&hide_border=true" width="100%"/>
+
 ## 🧑‍💻 About Me
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Purrple-hub&theme=radical&no-frame=true&row=2&column=4" />
+</p>
 
 - **Name:** Anas
 - **Coding in:** Lua / Luau / Python
@@ -19,20 +25,12 @@ Welcome to my GitHub! I'm a developer who loves tinkering with code, breaking th
 
 ---
 ![Snake Animation](https://raw.githubusercontent.com/Purrple-hub/Purrple-Hub/output/github-contribution-grid-snake-dark.svg)
-## 📦 Most Viewed Repositories
-
-Here are my pinned projects — the ones I'm actually proud of:
-
-| Repository | Description |
-|------------|-------------|
-| [**Scraper**](https://github.com/Purrple-hub/Scraper) | High-performance Python scraper with curl_cffi TLS impersonation, lxml parsing, adaptive concurrency, ML blocking detection, distributed queue, multi‑storage, and full observability. |
-| [**ClipSaver-Python**](https://github.com/Purrple-hub/ClipSaver-Python) | [clipssaver.com](https://clipssaver.com/) but as open-source Python — private, lightweight, and made with love. |
-| [**Research-Papers**](https://github.com/Purrple-hub/Research-Papers) | Collection of research papers and related work.|
-| [**Tokenizer**](https://github.com/Purrple-hub/Tokenizer) | Full-on tokenizer for PyArrow files. Detokenization isn't built in yet — sorry!|
-| [**YT-FR**](https://github.com/Purrple-hub/YT-FR) | YouTube-related Python project. |
-| [**SiteJS**](https://github.com/Purrple-hub/SiteJS) | Python-based "Small Web" construction set inspired by the now-deprecated Site.js (Node.js). |
-
----
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Purrple-hub/Purrple-Hub?style=for-the-badge&logo=github&color=9B59B6" />
+  <img src="https://img.shields.io/github/forks/Purrple-hub/Purrple-Hub?style=for-the-badge&logo=github&color=9B59B6" />
+  <img src="https://img.shields.io/github/last-commit/Purrple-hub/Purrple-Hub?style=for-the-badge&logo=git&color=9B59B6" />
+  <img src="https://img.shields.io/github/repo-size/Purrple-hub/Purrple-Hub?style=for-the-badge&logo=files&color=9B59B6" />
+</p>
 ![3D Contributions](https://raw.githubusercontent.com/Purrple-hub/Purrple-Hub/main/profile-3d-contrib/profile-night-rainbow.svg)
 ## 🧠 Languages I Work With
 
@@ -48,6 +46,9 @@ My weapon of choice for web scraping, data stuff, and anything that needs a litt
 
 - **Discord:** `PurpleXPurpleFR` — I'm usually around.
 - **Portfolio:** [https://perchance.org/portfolioforpurpleig] *(will be refreshed next year)*
+- <p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31znxit3cj6dcbort2einow3il7i&cover_image=true&theme=novatorem&bar_color=9B59B6" />
+</p>
 
 ---
 
