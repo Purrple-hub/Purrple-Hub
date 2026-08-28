@@ -6,14 +6,11 @@ Welcome to my GitHub! I'm a developer who loves tinkering with code, breaking th
 
 ---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Purrple-hub&theme=radical&bg_color=00000000&hide_border=true" width="100%"/>
-
 ## 🧑‍💻 About Me
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Purrple-hub&theme=radical&no-frame=true&row=2&column=4" />
+  <img src="https://img.shields.io/badge/-🏆%20Profile%20Trophy-9B59B6?style=for-the-badge&logo=github&logoColor=white" />
+  &nbsp; About Me
 </p>
-
 - **Name:** Anas
 - **Coding in:** Lua / Luau / Python
 - **Current obsession:** Web scraping — it's just *fun*.
