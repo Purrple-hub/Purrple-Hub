@@ -33,7 +33,7 @@ Here are my pinned projects — the ones I'm actually proud of:
 | [**SiteJS**](https://github.com/Purrple-hub/SiteJS) | Python-based "Small Web" construction set inspired by the now-deprecated Site.js (Node.js). |
 
 ---
-
+![3D Contributions](https://raw.githubusercontent.com/Purrple-hub/Purrple-Hub/main/profile-3d-contrib/profile-night-rainbow.svg)
 ## 🧠 Languages I Work With
 
 ### 🟦 Lua / Luau (Used to)
