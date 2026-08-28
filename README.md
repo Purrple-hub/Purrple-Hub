@@ -18,9 +18,7 @@ Welcome to my GitHub! I'm a developer who loves tinkering with code, breaking th
 - **Portfolio:** I'll update it next year — for now, what you see here is the real me.
 
 ---
-
 ![Snake Animation](https://raw.githubusercontent.com/Purrple-hub/Purrple-Hub/output/github-contribution-grid-snake-dark.svg)
-
 ## 📦 Most Viewed Repositories
 
 Here are my pinned projects — the ones I'm actually proud of:
