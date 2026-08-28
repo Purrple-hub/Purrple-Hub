@@ -31,8 +31,6 @@ Welcome to my GitHub! I'm a developer who loves tinkering with code, breaking th
   <img src="https://img.shields.io/github/last-commit/Purrple-hub/Purrple-Hub?style=for-the-badge&logo=git&color=9B59B6" />
   <img src="https://img.shields.io/github/repo-size/Purrple-hub/Purrple-Hub?style=for-the-badge&logo=files&color=9B59B6" />
 </p>
-
-![3D Contributions](https://raw.githubusercontent.com/Purrple-hub/Purrple-Hub/main/profile-3d-contrib/profile-night-rainbow.svg)
 ## 🧠 Languages I Work With
 
 ### 🟦 Lua / Luau (Used to)
