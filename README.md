@@ -7,10 +7,7 @@ Welcome to my GitHub! I'm a developer who loves tinkering with code, breaking th
 ---
 
 ## 🧑‍💻 About Me
-<p align="center">
-  <img src="https://img.shields.io/badge/-🏆%20Profile%20Trophy-9B59B6?style=for-the-badge&logo=github&logoColor=white" />
-  &nbsp; About Me
-</p>
+
 - **Name:** Anas
 - **Coding in:** Lua / Luau / Python
 - **Current obsession:** Web scraping — it's just *fun*.
