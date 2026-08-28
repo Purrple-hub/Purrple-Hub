@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&lines=Hello,+I'm+Purrple+%F0%9F%90%B1;Full-Stack+Developer;Building+cool+stuff+24%2F7" alt="Typing SVG" />
 </p>
 
-# 👋 Hi, I'm Anas (Purrple-hub)
-
 Welcome to my GitHub! I'm a developer who loves tinkering with code, breaking things (just to fix them), and building cool stuff—usually in **Lua**, **Luau**, or **Python**.
 
 ---
