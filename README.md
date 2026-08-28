@@ -45,7 +45,7 @@ My weapon of choice for web scraping, data stuff, and anything that needs a litt
 
 - **Discord:** `PurpleXPurpleFR` — I'm usually around.
 - **Portfolio:** [https://perchance.org/portfolioforpurpleig] *(will be refreshed next year)*
-- <p align="center">
+<p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=31znxit3cj6dcbort2einow3il7i&cover_image=true&theme=novatorem&bar_color=9B59B6" />
 </p>
 
