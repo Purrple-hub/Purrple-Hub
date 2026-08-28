@@ -17,12 +17,12 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # ✅ Using "main" branch – this is the stable, working code
+      # 🔥 Using the STABLE v6.0.1 tag (which actually has proper inputs)
       - name: Generate 3D Profile
-        uses: yoshi389111/github-profile-3d-contrib@main
+        uses: yoshi389111/github-profile-3d-contrib@v6.0.1
         with:
-          username: ''
-          token: ''
+          username: Purrple-hub
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit & Push
         run: |
