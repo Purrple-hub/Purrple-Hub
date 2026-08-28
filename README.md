@@ -61,5 +61,5 @@ My weapon of choice for web scraping, data stuff, and anything that needs a litt
 > *Thanks for stopping by. If you made it this far, you're probably cool. Drop a message or check out my repos — just don't expect me to be polite about ChatGPT.*
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Purrple-hub/count.svg" alt="visitors" />
+  <img src="https://komarev.com/ghpvc/?username=Purrple-hub&color=9B59B6&style=for-the-badge" alt="visitors" />
 </p>
