@@ -17,9 +17,9 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # 🔥 Using the stable "v7" tag instead of "main" or "0.7.1"
+      # ✅ Using "main" branch – this is the stable, working code
       - name: Generate 3D Profile
-        uses: yoshi389111/github-profile-3d-contrib@v7
+        uses: yoshi389111/github-profile-3d-contrib@main
         with:
           username: Purrple-hub
           token: ${{ secrets.GITHUB_TOKEN }}
