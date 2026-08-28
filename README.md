@@ -45,9 +45,6 @@ My weapon of choice for web scraping, data stuff, and anything that needs a litt
 
 - **Discord:** `PurpleXPurpleFR` — I'm usually around.
 - **Portfolio:** [https://perchance.org/portfolioforpurpleig] *(will be refreshed next year)*
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31znxit3cj6dcbort2einow3il7i&cover_image=true&theme=novatorem&bar_color=9B59B6" />
-</p>
 
 ---
 
@@ -61,4 +58,8 @@ My weapon of choice for web scraping, data stuff, and anything that needs a litt
 
 ---
 
-> *Thanks for stopping by. If you made it this far, you're probably cool. Drop a message or check out my repos — just don't expect me to be polite about ChatGPT.* 😼
+> *Thanks for stopping by. If you made it this far, you're probably cool. Drop a message or check out my repos — just don't expect me to be polite about ChatGPT.*
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Purrple-hub/count.svg" alt="visitors" />
+</p>
