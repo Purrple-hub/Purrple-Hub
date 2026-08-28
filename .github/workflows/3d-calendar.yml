@@ -21,8 +21,8 @@ jobs:
       - name: Generate 3D Profile
         uses: yoshi389111/github-profile-3d-contrib@main
         with:
-          username: Purrple-hub
-          token: ${{ secrets.GITHUB_TOKEN }}
+          username: ''
+          token: ''
 
       - name: Commit & Push
         run: |
