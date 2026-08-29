@@ -4,6 +4,8 @@
 
 Welcome to my GitHub! I'm a developer who loves tinkering with code, breaking things (just to fix them), and building cool stuff—usually in **Lua**, **Luau**, or **Python**.
 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH-HqQLIbeC_hZY7nThlOtbzK_-i1P9ok0wSa2FQhWuiwMA3X48xy7Pq0&s=10" width="124" height="124" align="top">
+
 ---
 
 ## 🧑‍💻 About Me
