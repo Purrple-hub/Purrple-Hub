@@ -21,8 +21,8 @@ I love github frfr and ofc Discord my beloved :3
 
 ---
 ![Snake Animation](https://raw.githubusercontent.com/Purrple-hub/Purrple-Hub/output/github-contribution-grid-snake-dark.svg)
-🧠 Languages I Work With
-Used Python and LuaU before but lowk Roblox got banned soooooo. yh
+
+I lowk use Python and Used LuaU before but lowk Roblox got banned soooooo. yh
 
 Python is the primary language rn and im still a vibe coder lowk its bad but im into El Sewedy so i hope i get betterrrrr
 
