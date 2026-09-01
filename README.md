@@ -2,7 +2,7 @@ I love github frfr and ofc Discord my beloved :3
 
 <div align="center">
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH-HqQLIbeC_hZY7nThlOtbzK_-i1P9ok0wSa2FQhWuiwMA3X48xy7Pq0&s=10" width="124" height="124" style="border-radius: 50%;">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH-HqQLIbeC_hZY7nThlOtbzK_-i1P9ok0wSa2FQhWuiwMA3X48xy7Pq0&s=10" width="200" height="200" style="border-radius: 50%;">
 
 </div>
 
