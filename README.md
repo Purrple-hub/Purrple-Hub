@@ -1,10 +1,10 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&lines=Hello,+I'm+Purrple+%F0%9F%90%B1;Full-Stack+Developer;Building+cool+stuff+24%2F7" alt="Typing SVG" />
-</p>
-
 I love github frfr and ofc Discord my beloved :3
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH-HqQLIbeC_hZY7nThlOtbzK_-i1P9ok0wSa2FQhWuiwMA3X48xy7Pq0&s=10" width="124" height="124" align="top">
+<div align="center">
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH-HqQLIbeC_hZY7nThlOtbzK_-i1P9ok0wSa2FQhWuiwMA3X48xy7Pq0&s=10" width="124" height="124" style="border-radius: 50%;">
+
+</div>
 
 ---
 
