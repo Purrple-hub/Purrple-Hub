@@ -8,16 +8,24 @@ I love github frfr and ofc Discord my beloved :3
 
 ---
 
-## 🧑‍💻 About Me
+<div align="center">
 
-- **Name:** Anas
-- **Coding in:** Lua / Luau / Python
-- **Current obsession:** Web scraping — it's just *fun*.
-- **AI sidekicks:** I mostly use **OpenCode** and **DeepSeek**. i guess so? im love with Deepseek for its optimization fr. its so good
-- **Chaos level:** I swear a lot. Stupidly a lot, sorryyyyy.
-- **In love with :* Minecraft, Valorant, Murder Drones, Space King, My gffff
-- **Relationship status:** Taken 💜, heheeeeeeee
-- **Portfolio:** I might ignore it for a while, heh. idc i love Discord and Github more. yepeeee
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+
+### AI Tools
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4A6CF7?style=for-the-badge&logo=deepseek&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=openai&logoColor=white)
+
+### Platforms & Tools
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Roblox](https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white)
+
+</div>
 
 ---
 ![Snake Animation](https://raw.githubusercontent.com/Purrple-hub/Purrple-Hub/output/github-contribution-grid-snake-dark.svg)
