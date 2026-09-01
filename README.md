@@ -35,10 +35,6 @@ I love github frfr and ofc Discord my beloved :3
 
 </div>
 
-I lowk use Python and Used LuaU before but lowk Roblox got banned soooooo. yh
-
-Python is the primary language rn and im still a vibe coder lowk its bad but im into El Sewedy so i hope i get betterrrrr
-
 ---
 
 # Talk to me, bro
@@ -48,16 +44,11 @@ Python is the primary language rn and im still a vibe coder lowk its bad but im 
 
 ---
 
-## ⚡ Random Facts i guess
+<div align="center">
 
-- I used Opencode and Deepseek one day for 9 hours and same shit for Github but 39 hours in a single week 0-0
-- I don't build full projects alone — I thrive in collaboration and remixing ideas.
-- I hate ChatGPT cuz of privacy and security, love local AI models frfr
-- im in love with Murder Dronessssss
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60" alt="Wave">
 
----
-
-> *Thanks for looking into this random ass profile, love yaa.*
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Purrple-hub&color=9B59B6&style=for-the-badge" alt="visitors" />
