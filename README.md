@@ -46,10 +46,6 @@ I love github frfr and ofc Discord my beloved :3
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60" alt="Wave">
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="80" alt="Heart">
 
 </div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Purrple-hub&color=9B59B6&style=for-the-badge" alt="visitors" />
-</p>
