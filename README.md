@@ -49,6 +49,13 @@
 
 ![Valorant](https://img.shields.io/badge/Valorant-FA4454?style=for-the-badge&logo=valorant&logoColor=white)
 ![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
-![Murder Drones](https://img.shields.io/badge/Murder_Drones-8B008B?style=for-the-badge&logo=disney&logoColor=white)
+
+</div>
+
+<div align="center">
+
+## 🎵 Now Playing
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem)](https://open.spotify.com/user/31znxit3cj6dcbort2einow3il7i)
 
 </div>
