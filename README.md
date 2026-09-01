@@ -54,8 +54,8 @@
 
 <div align="center">
 
-## 🎵 Currently Vibing To
+## 🎧 My Playlists
 
-[![Lanyard](https://github-readme-lanyard.vercel.app/api/1196805243552403477?hideTimestamp=true&hideBadges=true)](https://discord.com/users/PurpleXPurpleFR)
+[![Spotify Playlist](https://img.shields.io/badge/My_Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3LxKj58mJrLR3ZSECQUvXQ)
 
 </div>
