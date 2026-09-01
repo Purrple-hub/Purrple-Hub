@@ -46,6 +46,6 @@ I love github frfr and ofc Discord my beloved :3
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="80" alt="Heart">
+<img src="https://i.pinimg.com/originals/3b/37/93/3b3793df712eec581eaa44da52e448c8.gif" width="80" alt="Love">
 
 </div>
