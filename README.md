@@ -42,3 +42,13 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Purrple--hub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Purrple-hub)
 
 </div>
+
+<div align="center">
+
+## 🎮 Currently Playing
+
+![Valorant](https://img.shields.io/badge/Valorant-FA4454?style=for-the-badge&logo=valorant&logoColor=white)
+![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
+![Murder Drones](https://img.shields.io/badge/Murder_Drones-8B008B?style=for-the-badge&logo=disney&logoColor=white)
+
+</div>
