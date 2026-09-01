@@ -19,7 +19,6 @@
 ![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=openai&logoColor=white)
 
 ### Platforms & Tools
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Roblox](https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white)
 **![curl_cffi](https://img.shields.io/badge/curl_cffi-073551?style=for-the-badge&logo=curl&logoColor=white)**
@@ -39,7 +38,6 @@
 
 [![Discord](https://img.shields.io/badge/Discord-PurpleXPurpleFR-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/PurpleXPurpleFR)
 [![Portfolio](https://img.shields.io/badge/Portfolio-perchance.org-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://perchance.org/portfolioforpurpleig)
-[![GitHub](https://img.shields.io/badge/GitHub-Purrple--hub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Purrple-hub)
 
 </div>
 
