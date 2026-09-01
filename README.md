@@ -29,7 +29,11 @@ I love github frfr and ofc Discord my beloved :3
 </div>
 
 ---
-![Snake Animation](https://raw.githubusercontent.com/Purrple-hub/Purrple-Hub/output/github-contribution-grid-snake-dark.svg)
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Purrple-hub/Purrple-Hub/output/github-contribution-grid-snake-dark.svg" width="50%" alt="Snake Animation">
+
+</div>
 
 I lowk use Python and Used LuaU before but lowk Roblox got banned soooooo. yh
 
