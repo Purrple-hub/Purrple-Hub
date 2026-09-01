@@ -35,17 +35,15 @@ I love github frfr and ofc Discord my beloved :3
 
 </div>
 
----
-
-# Talk to me, bro
-
-- **Discord:** `PurpleXPurpleFR` — I'm usually around.
-- **Portfolio:** [https://perchance.org/portfolioforpurpleig]
-
----
-
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/3b/37/93/3b3793df712eec581eaa44da52e448c8.gif" width="80" alt="Love">
+## 💬 Connect
+
+<a href="https://discord.com/users/PurpleXPurpleFR">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+</a>
+<a href="https://perchance.org/portfolioforpurpleig">
+  <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio">
+</a>
 
 </div>
