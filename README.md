@@ -24,6 +24,7 @@ I love github frfr and ofc Discord my beloved :3
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Roblox](https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white)
+**![curl_cffi](https://img.shields.io/badge/curl_cffi-073551?style=for-the-badge&logo=curl&logoColor=white)**
 
 </div>
 
