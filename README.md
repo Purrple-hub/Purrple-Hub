@@ -52,15 +52,10 @@
 
 </div>
 
-  
 <div align="center">
 
-<div align="center">
+## 🎵 Currently Vibing To
 
-## 🎵 Music Vibe
-
-![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
-![Apple Music](https://img.shields.io/badge/Apple_Music-FA243C?style=for-the-badge&logo=apple-music&logoColor=white)
-![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)
+[![Lanyard](https://github-readme-lanyard.vercel.app/api/1196805243552403477?hideTimestamp=true&hideBadges=true)](https://discord.com/users/PurpleXPurpleFR)
 
 </div>
